@@ -16,7 +16,7 @@ Good luck!
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
-#AIOPS ASSESSMENT - BASIC AIOPS MONITORING AND EVENT PROCESSING
+#Tasks
 
 1. AIOPS SCENARIO EXPLANATION
 This repository contains a lightweight Python simulation of an AIOps operational workflow for monitoring microservices, specifically payment-service[cite: 3]. The primary goal is to analyze operational metrics and logs, identify abnormal behavior, generate event messages, and publish them through a producer-topic-consumer streaming model to trigger downstream incident handling[cite: 3].
